@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718512522566",
+    "project_id": "dcschat-65bd2",
+    "storage_bucket": "dcschat-65bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718512522566:android:93323e1486f976d6319147",
+        "android_client_info": {
+          "package_name": "com.example.newchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718512522566-trf7gtbilg0kutvbi1vr16fq0d4td0h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWt8HYnWaBpS9JVcHzxE9TY6nXEZEVHik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718512522566-trf7gtbilg0kutvbi1vr16fq0d4td0h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
